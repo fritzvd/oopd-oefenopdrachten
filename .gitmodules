@@ -1,72 +1,72 @@
-[submodule "Niels Engelhard"]
-  path = 598045
-  url = https://github.com/mrNiels/FunTime
-[submodule "Wouter Noordhof"]
-  path = 605251
-  url = https://github.com/WouterNoordhof/OOPD-oefenen
-[submodule "Lars Buijs"]
-  path = 601413
-  url = https://github.com/Phoodtjee/oopd-oefenopdrachten
-[submodule "Cathelijne de Bruijn"]
-  path = 595634
-  url = https://github.com/CathelijnedeBruijn/OOPD
-[submodule "Klaas van der Linden"]
-  path = 599644
-  url = https://github.com/KlaasvdLinden/OOPD-oefeningen
-[submodule "Tom Sievers"]
-  path = 598986
-  url = https://github.com/TomSievers/oopd
-[submodule "Jelmer Wijnja"]
-  path = 600152
-  url = http://github.com/Jelmergu/OOPD
-[submodule "Renzo Schilderinck"]
-  path = 600969
-  url = https://github.com/RenzoSchilderinck/oopd
+[submodule "NielsEngelhard"]
+	path = NielsEngelhard
+	url = https://github.com/mrNiels/FunTime
+[submodule "WouterNoordhof"]
+	path = WouterNoordhof
+	url = https://github.com/WouterNoordhof/OOPD-oefenen
+[submodule "LarsBuijs"]
+	path = LarsBuijs
+	url = https://github.com/Phoodtjee/oopd-oefenopdrachten
+[submodule "CathelijnedeBruijn"]
+	path = CathelijnedeBruijn
+	url = https://github.com/CathelijnedeBruijn/OOPD
+[submodule "KlaasvanderLinden"]
+	path = KlaasvanderLinden
+	url = https://github.com/KlaasvdLinden/OOPD-oefeningen
+[submodule "TomSievers"]
+	path = TomSievers
+	url = https://github.com/TomSievers/oopd
+[submodule "JelmerWijnja"]
+	path = JelmerWijnja
+	url = http://github.com/Jelmergu/OOPD
+[submodule "RenzoSchilderinck"]
+	path = RenzoSchilderinck
+	url = https://github.com/RenzoSchilderinck/oopd
 [submodule "TBeeren"]
-  path = 594098
-  url = https://github.com/TBeeren/OOPD
+	path = TBeeren
+	url = https://github.com/TBeeren/OOPD
 [submodule "Jeffrey"]
-  path = 606601
-  url = https://github.com/JeffreyKragten/OOPD-oefenopdrachten
-[submodule "Sander Bussink"]
-  path = 592528
-  url = https://github.com/synolog1x/OOPD-Opdrachten
-[submodule "Valérie de Bie"]
-  path = 598207
-  url = https://github.com/ValeriedeBie/OOPD-oefening
-[submodule "Henkie van den Oord"]
-  path = 602671
-  url = https://github.com/Henkie2112/OOPD
-[submodule "Simon van Noppen"]
-  path = 605717
-  url = https://github.com/Simonvn1/OOPD
-[submodule "Jari Keizer"]
-  path = 604237
-  url = https://github.com/jarikeizer/OOPD
-[submodule "Bart Brendeke"]
-  path = 598674
-  url = https://github.com/BBrendeke/oopd-oefeningen
+	path = Jeffrey
+	url = https://github.com/JeffreyKragten/OOPD-oefenopdrachten
+[submodule "SanderBussink"]
+	path = SanderBussink
+	url = https://github.com/synolog1x/OOPD-Opdrachten
+[submodule "ValériedeBie"]
+	path = ValériedeBie
+	url = https://github.com/ValeriedeBie/OOPD-oefening
+[submodule "HenkievandenOord"]
+	path = HenkievandenOord
+	url = https://github.com/Henkie2112/OOPD
+[submodule "SimonvanNoppen"]
+	path = SimonvanNoppen
+	url = https://github.com/Simonvn1/OOPD
+[submodule "JariKeizer"]
+	path = JariKeizer
+	url = https://github.com/jarikeizer/OOPD
+[submodule "BartBrendeke"]
+	path = BartBrendeke
+	url = https://github.com/BBrendeke/oopd-oefeningen
 [submodule "Erhan"]
-  path = 569531
-  url = https://github.com/E-yilmaz52/OOPD-Oefening
-[submodule "Abdulwahab Alzuabi"]
-  path = 591821
-  url = https://github.com/abdul91z/oopd
-[submodule "Sem van Manen"]
-  path = 605060
-  url = https://github.com/SemvManen/OOPD-Oefenles
+	path = Erhan
+	url = https://github.com/E-yilmaz52/OOPD-Oefening
+[submodule "AbdulwahabAlzuabi"]
+	path = AbdulwahabAlzuabi
+	url = https://github.com/abdul91z/oopd
+[submodule "SemvanManen"]
+	path = SemvanManen
+	url = https://github.com/SemvManen/OOPD-Oefenles
 [submodule "Jasmijn"]
-  path = 602898
-  url = https://github.com/jasmijnB97/OOPD-oefenopdrachten
-[submodule "Suleiman Obeid"]
-  path = 598775
-  url = https://github.com/Samobey/oopd-opdrachten
-[submodule "Baris Urhan"]
-  path = 598502
-  url = https://github.com/creativename123
-[submodule "Marnick Hartgers"]
-  path = 587408
-  url = https://github.com/marnick-hartgers/OOPP_HAN
-[submodule "Maarten Grootoonk"]
+	path = Jasmijn
+	url = https://github.com/jasmijnB97/OOPD-oefenopdrachten
+[submodule "SuleimanObeid"]
+	path = SuleimanObeid
+	url = https://github.com/Samobey/oopd-opdrachten
+[submodule "MarnickHartgers"]
+	path = MarnickHartgers
+	url = https://github.com/marnick-hartgers/OOPP_HAN
+[submodule "MaartenGrootoonk"]
   path = 597588
   url = https://github.com/MaartenGDev/oopd
+[submodule "BarisUrhan"]
+  path = 598502
+  url = https://github.com/creativename123
