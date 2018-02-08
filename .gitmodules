@@ -68,5 +68,14 @@
   path = 597588
   url = https://github.com/MaartenGDev/oopd
 [submodule "BarisUrhan"]
-  path = 598502
-  url = https://github.com/creativename123
+	path = BarisUrhan
+	url = https://github.com/creativename123/OOPD
+[submodule "OOPD"]
+	path = OOPD
+	url = https://github.com/creativename123/OOPD
+[submodule "MauriceDeKoning"]
+	path = MauriceDeKoning
+	url = https://github.com/mauricedk/OOPD
+[submodule "MartHolkenborg"]
+	path = MartHolkenborg
+	url = https://github.com/maam27/OOPD-oefenopdrachten.git
