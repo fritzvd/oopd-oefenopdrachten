@@ -79,3 +79,6 @@
 [submodule "MartHolkenborg"]
 	path = MartHolkenborg
 	url = https://github.com/maam27/OOPD-oefenopdrachten.git
+[submodule "DaveQuentin"]
+	path = DaveQuentin
+	url = https://github.com/Daventer/oopd
