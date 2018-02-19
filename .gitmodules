@@ -82,3 +82,6 @@
 [submodule "DaveQuentin"]
 	path = DaveQuentin
 	url = https://github.com/Daventer/oopd
+[submodule "IvorStaats"]
+	path = IvorStaats
+	url = https://github.com/R0vi/OOPD
