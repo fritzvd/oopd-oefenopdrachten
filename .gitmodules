@@ -64,9 +64,6 @@
 [submodule "MarnickHartgers"]
 	path = MarnickHartgers
 	url = https://github.com/marnick-hartgers/OOPP_HAN
-[submodule "MaartenGrootoonk"]
-  path = 597588
-  url = https://github.com/MaartenGDev/oopd
 [submodule "BarisUrhan"]
 	path = BarisUrhan
 	url = https://github.com/creativename123/OOPD
@@ -85,3 +82,6 @@
 [submodule "IvorStaats"]
 	path = IvorStaats
 	url = https://github.com/R0vi/OOPD
+[submodule "MaartenGrootoonk"]
+	path = MaartenGrootoonk
+	url = https://github.com/MaartenGDev/oopd
